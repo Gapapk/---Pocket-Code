@@ -1,3 +1,3 @@
-# 🕳️ мой проект Pocket Code
+# 🕳️ My project Pocket Code
 Исходник "мой проект" в pocket ccode.
 Весь код хранится в папке.
